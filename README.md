@@ -1,1 +1,1 @@
-teste
+repositório criado para testes com AI
